@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="150dp"
+        android:src="@drawable/logo"
+        android:layout_gravity="center"
+        android:layout_margin="15dp"
+        />
+
+    <TextView
+        android:id="@+id/billing"
+        android:layout_width="wrap_content"
+        android:layout_height="506dp"
+        android:layout_margin="10dp"
+        android:padding="3dp"
+        android:text="REIT- a Surveillance brand under the emblem of ITI Limited, REIT has been launched in association with Central PSU, Ministry of Communication, Government of India, REIT are the prime brand of surveillance products under ITI Limited. The brand is looking to create and cater the dedicated distribution towards the Government surveillance orders later extendable to open market needs.
+
+REIT maintains a brand integrity and support of surveillance products backed with expecting a market leading customer service, sales and support. ITI limited-REIT brand has set up a launch to cater various demands in the market subject to our domain of Surveillance and Security. Initially the customers in need of a service have to get enrolled with a small amount. We are launching many services without the burden of initial hardware costs but with only on minimum affordable monthly charges towards software, server and data coming under the process.
+
+As a mega initiative project, REIT brand is catering the needs of security surveillance products across towards Jammu Jan Suraksha Yojana in Jammu city providing the digital security to citizen in collaboration with Jammu Municipal Corporation. We are processing and providing the surveillance products manufactured under the ITI Limited- REIT brand towards the project."
+        android:textColor="#000"
+        android:textSize="15dp"
+        android:textStyle="bold"
+
+        />
+</LinearLayout>
+
